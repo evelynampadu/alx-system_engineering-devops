@@ -1,2 +1,2 @@
 #!/bin/bash
-listing items in the directory
+ls
